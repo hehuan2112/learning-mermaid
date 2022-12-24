@@ -11,6 +11,8 @@ npm install
 npm run dev
 ```
 
+Or the online demo: [GitHub Pages Demo](https://hehuan2112.github.io/learning-mermaid/).
+
 # What I learnt
 In short, for static figures, just follow the example on official website.
 
